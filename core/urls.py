@@ -3,7 +3,7 @@ from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
 
-admin.site.site_header = 'Storefront Admin'
+admin.site.site_header = 'Phoenix Store Admin'
 admin.site.index_title = 'Admin'
 
 urlpatterns = [

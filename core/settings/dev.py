@@ -6,7 +6,7 @@ SECRET_KEY = 'django-insecure-$&ovi=euv((gdjh1xbuck7ou3rzj1xa*xa%zn6sindeh70gmbp
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'storefront',
+        'NAME': 'phoenixstore',
         'USER': 'postgres',
         'PASSWORD': '9959',
         'HOST': '127.0.0.1',

@@ -139,10 +139,10 @@ SIMPLE_JWT = {
 }
 
 ADMINS = [
-    ('Sabbir', 'admin@sabbir.inc')
+    ('Phoenix Store', 'admin@phoenixstore.com')
 ]
 
-DEFAULT_FROM_EMAIL = 'from@sabbir.inc'
+DEFAULT_FROM_EMAIL = 'from@phoenixstore.com'
 
 CELERY_BEAT_SCHEDULE = {
     'notify_customers': {
