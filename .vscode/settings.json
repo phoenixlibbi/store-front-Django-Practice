@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "viewsets"
+    ],
+    "python.formatting.provider": "autopep8",
+    "python.testing.pytestArgs": [
+        "store"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
